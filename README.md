@@ -3,7 +3,7 @@
 first code
 
 ## sub title
-nechami
+first code in git
 
 # code
 ```cpp
