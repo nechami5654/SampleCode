@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file with changes from computer
+=======
+file with changes from git
+>>>>>>> c62c3b1497a95591ccc195d898ddf6749393bd8e
